@@ -80,7 +80,7 @@ Besides player movement, **Deathmatch** also gives each player a gun to shoot, a
 ![PlayMode](../img/MyFirstMultiplayer/PlayMode.jpg){: .center loading="lazy" }
 
 ### Test Multiplayer Gameplay
-
+7
 Core projects also include multiplayer networking by default. Because this is a crucial component of this game, it is important to test using **Multiplayer Preview Mode** as much as possible.
 ![TwoPlayers](../img/MyFirstMultiplayer/TwoPlayers.png){: .center loading="lazy" }
 
